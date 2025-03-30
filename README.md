@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bigben - Luxury & Everyday Wear</title>
+    <title>Bigben </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body { font-family: 'Poppins', sans-serif; margin: 0; padding: 0; background-color: #ffffff; color: #000; }
